@@ -1,0 +1,153 @@
+:root {
+ --r-main-font: Open Sans, sans-serif;
+--r-heading-font: Open Sans, sans-serif;
+}
+
+/* Prevent uppcase */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: none;
+}
+
+/* Specify font size */
+/* Paragraph */
+/* Used for captions */
+.reveal p{
+    font-size: 0.45em;
+}
+
+/* Chapter */
+.reveal h2 {
+    font-size: 1.8em; }
+/* font-size: 1em; } */
+
+/* Title slides */
+.reveal h3,
+.reveal h4 {
+    font-size: 5vh}
+/* 3vw; */
+/* 1.4em; */
+
+/* title */
+.reveal h1 {
+font-size: 1.7em; }
+
+/* Lab */
+.reveal h5 {
+    margin: 25px 0px;
+    font-size: 1em; }
+
+/* date */
+.reveal h6 {
+font-size: 0.8em; }
+
+/* Define list space and font */
+/* https://github.com/yjwen/org-reveal/issues/38 */
+.reveal li { margin: 0; padding: 0.4em; font-size: 0.85em}
+
+/* Push each slide change to the browser history */
+Reveal.initialize({
+history: true,
+});
+
+/* Keep title at the top */
+.reveal .slides section > section { 
+height: 95%;
+}
+
+
+ul.compacts
+ {
+     list-style-type: none;
+     padding: 0;
+     margin: 0;
+     font-size: 0.7em;
+     line-height:100%
+}
+
+ul.compacts li.a {list-style-type: disc;}
+ul.compacts li.b {list-style-type: square;}
+ul.compacts li.c {list-style-type: circle;}
+
+ul.compactl
+ {
+     list-style-type: none;
+     padding: 0;
+     margin: 0;
+     font-size: 0.9em;
+     line-height:100%
+ }
+
+ul.compactl li.a {list-style-type: disc;}
+ul.compactl li.b {list-style-type: square;}
+ul.compactl li.c {list-style-type: circle;}
+
+.box {
+    float: left;
+    height: 20px;
+    width: 20px;
+    margin-bottom: 15px;
+    clear: both;
+}
+
+.ptext
+{
+    font-size:      20px;
+    font-weight:    bold;
+}
+
+.test {
+  background-color: #ff2f00ff;
+}
+
+.ctrl {
+  background-color: #00a994ff;
+}
+
+.stext{
+    font-size:      font-size: 0.9em;
+}
+
+.chapter {
+    font-weight: bold;
+}
+
+#top {
+    position: relative;
+    /* top: 50%; */
+    transform: translateY(12.5%);
+}
+
+#midtop {
+    position: relative;
+    /* top: 50%; */
+    transform: translateY(37.5%);
+}
+
+#center {
+    position: relative;
+    /* top: 50%; */
+    transform: translateY(50%);
+}
+
+#midbottom {
+    position: relative;
+    /* top: 50%; */
+    transform: translateY(62.5%);
+}
+
+#bottom {
+    position: relative;
+    /* top: 50%; */
+    transform: translateY(75%);
+}
+
+#lowbottom {
+    position: relative;
+    /* top: 50%; */
+    transform: translateY(87.5%);
+}

@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Characterization of CID7 in boron dependent mRNA degradation in <i>Arabidopsis thaliana</i></title>
+<meta name="author" content="Saul Sotomayor Leyton"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="./dist/reveal.css"/>
+
+<link rel="stylesheet" href="./dist/theme/beige.css" id="theme"/>
+
+<link rel="stylesheet" href="./plugin/pointer/pointer.css"/>
+
+<link rel="stylesheet" href="./UT/custom_UT.css"/>
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = './css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<meta name="description" content="Thesis">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1 class="title">Characterization of CID7 in boron dependent mRNA degradation in <i>Arabidopsis thaliana</i></h1><p class="subtitle"></p><br/>
+<h3 class="author">Saul Sotomayor Leyton</h3><h3>Laboratory of Plant Nutrition and Fertilizers</h3><br/><h6 class="date">2022-02-07</h6>
+</section>
+
+<section>
+<section id="slide-orga8985ef" data-autoslide="1000">
+<h2 id="orga8985ef">Outline</h2>
+</section>
+</section>
+<section>
+<section id="slide-org0e5621e">
+<h3 id="org0e5621e">Outline</h3>
+<ul>
+<li>Introduction</li>
+<li>Chapter 1: RNA nuclease activity of CID7<sub>SMR</sub></li>
+<li>Chapter 2: Identification of CID7 and boron condition-dependent mRNA degradation intermediates</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org477787c" data-autoslide="1000">
+<h2 id="org477787c">Introduction</h2>
+</section>
+</section>
+<section>
+<section id="slide-org15deb5e">
+<h3 id="org15deb5e">Boron (B) is an essential micronutrient for plants</h3>
+
+<div id="org050e7dd" class="figure">
+<p><img src="./UT/images/png/cell_wall.png" alt="cell_wall.png" height="400px" />
+</p>
+</div>
+
+<p>
+Modified after<sup><a href="https://doi.org/10.1093/jxb/eraa042">(1)</a></sup>
+</p>
+
+<ul class="compacts">
+<li>Boron is essential for cell wall structure</li>
+<li>Uptake and distribution is regulated by dedicated transporters and channels
+<ul>
+<li>NIP5;1 is a channel that mediates boron uptake</li>
+
+</ul></li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org46b6fa8">
+<h3 id="org46b6fa8">Regulation of <i>NIP5;1</i>  is affected by boron at the translational stage</h3>
+
+<div id="org6820ced" class="figure">
+<p><img src="./UT/images/png/ribo_stall_nip5.png" alt="ribo_stall_nip5.png" height="300px" />
+</p>
+</div>
+
+<ul class="compacts">
+<li><i>NIP5;1</i> Mediates B uptake under B-limiting conditions
+<ul>
+<li>Under sufficient and elevated B its mRNA levels are reduced<sup><a href="http://www.plantcell.org/content/18/6/1498">(1)</a></sup></li>
+<li>Ribosomes tend to stall at 5'UTR region (AUG-UAA) leading to <i>NIP5;1</i> degradation<sup><a href="http://www.plantcell.org/content/28/11/2830">(2)</a></sup></li>
+<li>Details about the endonucleotic cleavage and fate of degradation intermediates are unknown</li>
+
+</ul></li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org5987e7c">
+<h3 id="org5987e7c">CID7 is involved in <i>NIP5;1</i>  mRNA decay</h3>
+<div class="column" style="float:left; width: 40%">
+<ul class="compacts">
+<li>CID7 was found screening for plants with altered boron response</li>
+<li>In a GFP-NIP5;1 population <i>cid7</i> mutants showed sustained GFP signal under mild boron concentration
+<ul>
+<li>Mutations mapped to CID7 gene</li>
+<li>qRT PCR showed increased levels of <i>NIP5;1</i> under elevated B <a href="#/slide-nip5-qrtpcr"><img src="./UT/images/png/link2.png" style="align:right; vertical-align: -0.7em; width:0.9em;height:0.9em;"/></a></li>
+<li>Complementation with CID7 restored B-responsiveness <a href="#/slide-cid7-rescue"><img src="./UT/images/png/link2.png" style="align:right; vertical-align: -0.7em; width:0.9em;height:0.9em;"/></a></li>
+
+</ul></li>
+
+</ul>
+</div>
+<div class="column" style="float:right; width: 60%">
+<p>
+<img src="./UT/images/png/cid7-screening1.png" alt="cid7-screening1.png" />
+GFP-signal used as proxy for mRNA abundance
+</p>
+
+<p>
+Image provided by Dr. Tanaka (Tanaka, unpublished)
+</p>
+</div>
+</section>
+<section id="slide-nip5-qrtpcr" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="nip5-qrtpcr"><i>NIP5;1</i> mRNA levels are altered in candidates and <i>cid7-5</i> mutant exposed to elevated B</h4>
+<div class="column" style="float:left; width: 60%">
+
+<div id="orgb29dae6" class="figure">
+<p><img src="./UT/images/png/cid7-screening2a.jpg" alt="cid7-screening2a.jpg" height="400px" />
+</p>
+</div>
+
+<p>
+Image provided by Dr. Tanaka (Tanaka, unpublished)
+</p>
+</div>
+<div class="column" style="float:right; width: 40%">
+<ul class="compactl" id="center">
+<li>Selected mutants showed altered <i>NIP5;1</i> mRNA levels when exposed to increased boron concentrations (25 and 100&mu;M )</li>
+<li>Similar pattern was observed for <i>cid7-5</i> mutant</li>
+
+</ul>
+</div>
+</section>
+<section id="slide-cid7-rescue" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="cid7-rescue">CID7 complementation rescued the B-responsive phenotype on mutants</h4>
+<div class="column" style="float:left; width: 60%">
+
+<div id="org736181a" class="figure">
+<p><img src="./UT/images/png/cid7-screening2b.jpg" alt="cid7-screening2b.jpg" width="100%" />
+</p>
+</div>
+
+<p>
+Image provided by Dr. Tanaka (Tanaka, unpublished)
+</p>
+</div>
+<div class="column" style="float:right; width: 40%">
+<ul class="compactl" id="center">
+<li>Mutants transformed with a CID7<sub>Promoter</sub>:CID7:GFP construct showed NIP5;1 mRNA levels similar to WT plants</li>
+
+</ul>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org38ad646">
+<h3 id="org38ad646">Questions about CID7</h3>
+<ol>
+<li>Does it have RNA-endonuclease activity?
+<ul>
+<li>Is it capable of degrading total RNA?</li>
+
+</ul></li>
+<li>Is CID7's activity is related to the events of ribosome stalling?</li>
+
+</ol>
+</section>
+</section>
+<section>
+<section id="slide-orgb2c3447" data-autoslide="1500">
+<h2 id="orgb2c3447">Chapter 1:</h2>
+<h2 class="chaptert">RNA nuclease activity of CID7<sub>SMR</sub></h2>
+</section>
+</section>
+<section>
+<section id="slide-org70be5da">
+<h3 id="org70be5da">Features that make CID7 a candidate for NIP5;1 regulation</h3>
+
+<div id="org5c001ef" class="figure">
+<p><img src="./UT/images/png/cid7domains.png" alt="cid7domains.png" width="90%" />
+</p>
+</div>
+
+<ul class="compacts">
+<li data-fragment-index="2" class="fragment grow">SMR-domain: Associated with DNA- RNA-nuclease activity</li>
+<li data-fragment-index="2" class="fragment grow">PAM2 motif: Allows interaction with poly-A binding proteins (RNA-interaction)</li>
+<li data-fragment-index="2" class="fragment shrink">CUE2-like: Allows binding to Ubiquitin molecules (ribosomal subunits)</li>
+<li data-fragment-index="2" class="fragment shrink">DUF1771: Found next to SMR-domains and considered an extension</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org2338aa0">
+<h3 id="org2338aa0">Outline of experimental procedures</h3>
+<ul>
+<li data-fragment-index="2" class="fragment shrink">Expression and purification of peptide
+<ul>
+<li>Modification of expression vectors <a href="#/slide-expression-vectors"><img src="./UT/images/png/link2.png" style="align:right; vertical-align: -0.7em; width:0.9em;height:0.9em;"/></a></li>
+<li>Improvement to the purification protocol <a href="#/slide-purification-smr"><img src="./UT/images/png/link2.png" style="align:right; vertical-align: -0.7em; width:0.9em;height:0.9em;"/></a></li>
+
+</ul></li>
+<li data-fragment-index="2" class="fragment grow">RNA-nuclease activity assay<sup><a href="http://www.pnas.org/content/114/8/E1554">(1)</a></sup>
+<ul>
+<li>Substrate: Total RNA</li>
+<li>Samples: 
+<ul>
+<li>CID7<sub>SMR</sub>: Test sample</li>
+<li>SOT1<sub>SMR</sub>:  Positive Control</li>
+<li>Maltose Binding Protein (MBP): Negative Control</li>
+
+</ul></li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-expression-vectors" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="expression-vectors">Modification of expression vectors (pColdIV mod)</h4>
+<div class="column" style="float:left;width:50%">
+
+<div id="orgedae006" class="figure">
+<p><img src="./UT/images/png/pcoldiv.png" alt="pcoldiv.png" width="75%" />
+</p>
+</div>
+<ul class="compacts">
+<li>Takara's pColdIV was used as backbone.</li>
+<li>It posses only a multi-cloning site (MCS)</li>
+
+</ul>
+</div>
+<div class="column" style="float:right;width:50%">
+
+<div id="orgb53351a" class="figure">
+<p><img src="./UT/images/png/pcoldivmod.png" alt="pcoldivmod.png" width="75%" />
+</p>
+</div>
+<ul class="compacts">
+<li>pColdIV-mod has a MBP with a periplasmic targeting signal (ompA) followed by a TEV-recognition site, a MCS and a 7xHistidine tag for purification</li>
+
+</ul>
+</div>
+</section>
+<section id="slide-expression-vectors2" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="expression-vectors2">Modification of expression vectors (pRK793v3)</h4>
+<div class="column" style="float:left;width:50%">
+
+<div id="orge113a2e" class="figure">
+<p><img src="./UT/images/png/prk793.png" alt="prk793.png" width="75%" />
+</p>
+</div>
+<ul class="compacts">
+<li>Addgene's pRK793 is a commercial vector for the expression of TEV-protease</li>
+
+</ul>
+</div>
+<div class="column" style="float:right;width:50%">
+
+<div id="orgd3edfc5" class="figure">
+<p><img src="./UT/images/png/prk793v3.png" alt="prk793v3.png" width="75%" />
+</p>
+</div>
+<ul class="compacts">
+<li>pRK793v3 was modified to include a TEV-site downstream the TEV-protease coding region and a multi-cloning site for the expression of other peptides</li>
+
+</ul>
+</div>
+</section>
+<section id="slide-purification-smr" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="purification-smr">Purification of CID7<sub>SMR</sub> and SOT1<sub>SMR</sub></h4>
+<div class="column" style="float:left; width: 70%">
+
+<div id="orgb5936c7" class="figure">
+<p><img src="./UT/images/png/pColdIV-mod.png" alt="pColdIV-mod.png" />
+</p>
+</div>
+</div>
+<div class="column" style="float:right; width: 30%">
+<ul class="compacts" id="top">
+<li>A modified pColdIV expression vector was constructed
+<ul>
+<li>MBP upstream cloning site to improve solubility</li>
+
+</ul></li>
+<li>For the activity assay 
+<ul>
+<li>MBP-tag was removed through TEV-protease digestion (Figure left)</li>
+<li>Specific fractions were obtained by gel filtration</li>
+
+</ul></li>
+
+</ul>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org5292e5f">
+<h3 id="org5292e5f">CID7<sub>SMR</sub> has RNA nuclease activity</h3>
+
+<div id="orgdb501dc" class="figure">
+<p><img src="./UT/images/png/2020-10-13-MBP-C7SWT-S1SWT_62_125_250nM.png" alt="2020-10-13-MBP-C7SWT-S1SWT_62_125_250nM.png" width="100%" />
+</p>
+</div>
+
+<p>
+Root total RNA was incubated with purified peptides for 30 min. at 25C
+</p>
+
+<p>
+Reaction buffer (Buff) and purified MBP were used as negative controls
+</p>
+<div>
+<ul>
+<li>Dose dependent RNA nuclease activity of CID7<sub>SMR</sub> was confirmed</li>
+
+</ul>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org745d38f">
+<h3 id="org745d38f">Mutations in CID7<sub>SMR</sub> second motif do not affect its activity</h3>
+
+<div id="org04b3af8" class="figure">
+<p><img src="./UT/images/png/2020-10-27-RNA-assay-C7SWT_C7SMut_S1SWT_MBP.png" alt="2020-10-27-RNA-assay-C7SWT_C7SMut_S1SWT_MBP.png" width="100%" />
+</p>
+</div>
+<div class="column" style="float:left; width: 55%">
+
+<div id="orgd89b819" class="figure">
+<p><img src="./UT/images/png/smr_residues.png" alt="smr_residues.png" />
+</p>
+</div>
+</div>
+<div class="column" style="float:left; width: 45%">
+<ul class="compacts">
+<li>CID7<sub>SMR</sub>  with mutations in the second motif showed increased activity</li>
+<li>The 2nd  motif was shown to be important in SOT1 but not in CUE2</li>
+<li>CID7<sub>SMR</sub> domain is more similar to CUE2<sub>SMR</sub> than SOT1<sub>SMR</sub></li>
+
+</ul>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org5b6bc61">
+<h3 id="org5b6bc61">Chapter conclusions</h3>
+<ul>
+<li>It was shown that CID7<sub>SMR</sub> domain is capable of degrading RNA</li>
+<li>Out of the two putative catalytic motifs, the second does not seem to be necessary for the RNA-nuclease activity</li>
+<li>This is unlike a previous report on Arabidopsis’ SOT1 but similar to a report on Yeast protein CUE2</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orgfe6846b" data-autoslide="1500">
+<h2 id="orgfe6846b">Chapter 2:</h2>
+<h2 class="chaptert">Identification of CID7 and boron condition-dependent mRNA degradation intermediates</h2>
+</section>
+</section>
+<section>
+<section id="slide-org2ca101a">
+<h3 id="org2ca101a">Outline of experimental procedures</h3>
+
+<div id="orgccd2c94" class="figure">
+<p><img src="./UT/images/png/degradome_method.png" alt="degradome_method.png" width="80%" />
+</p>
+</div>
+</section>
+<section id="slide-pydeg-analysis" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="pydeg-analysis">Overview of pyDegradome analysis</h4>
+
+<div id="org7cf7205" class="figure">
+<p><img src="./UT/images/png/pydeg_method.png" alt="pydeg_method.png" width="75%" />
+</p>
+</div>
+
+<ul class="compacts">
+<li>pyDegradome<sup><a href="https://dx.plos.org/10.1371/journal.ppat.1005305">(1)</a></sup> aims to find endonuclease targets by comparing samples with and without a given endonuclease.</li>
+<li>Significant differences (<i>peaks</i>)  are found at the exon level.</li>
+<li>Multiplicative factor and significance level are user-defined parameters</li>
+
+</ul>
+</section>
+<section id="slide-pydeg-limitations" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="pydeg-limitations">pyDegradome limitations and extended classification</h4>
+<div class="column" style="float:left;width:50%">
+<ul class="compactl">
+<li>Limitations
+<ul>
+<li>It can identify many significant signals (peaks) which may not be relevant at the transcript level</li>
+
+</ul></li>
+<li>Extended classification
+<ul>
+<li>Considers signals along the transcript
+<ol>
+<li>Within sample: Classification/Filtering</li>
+<li>Between samples: Classification</li>
+
+</ol></li>
+<li>Result: Most peaks were removed</li>
+
+</ul></li>
+
+</ul>
+</div>
+<div class="column" style="float:right;width:50%">
+
+<div id="org88cb87d" class="figure">
+<p><img src="./UT/images/png/pydeg_limitationsv2.png" alt="pydeg_limitationsv2.png" width="75%" />
+</p>
+</div>
+</div>
+</section>
+<section id="slide-classification-1" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="classification-1">Extended classification 1 (Filtering &amp; classification)</h4>
+<div class="column" style="float:left;width:50%">
+<ul class="compacts">
+<li>Compares peak with reads along the transcript (test sample)
+<ul>
+<li>Category 1: Peak is the highest read and shared between replicates</li>
+<li>Category 2: Peak is not highest but at least 80% as high and shared between replicates</li>
+<li>Category 3: Peak is not highest but between 70-80% as high and shared between replicates</li>
+<li>Category 4: Peak is not shared (significant only in one replicate). Coordinates of the significant peak are used to define those on the missing. Reads are either the highest or at least 80% as high</li>
+<li>Category 0: Those peaks that can not be classified into the above categories were excluded</li>
+
+</ul></li>
+
+</ul>
+</div>
+<div class="column" style="float:right;width:50%">
+
+<div id="orgc87f54a" class="figure">
+<p><img src="./UT/images/png/pydeg-1.png" alt="pydeg-1.png" height="100%" />
+</p>
+</div>
+</div>
+</section>
+<section id="slide-classification-2" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="classification-2">Extended classification 2 (Classification)</h4>
+<div class="column" style="float:left;width:40%">
+<ul class="compacts">
+<li>Compares peak with reads on the control sample</li>
+<li>Averages were used to account for sample variability and reduce computation time</li>
+<li>No peaks were removed
+<ul>
+<li>Category A: Ratio between average of peaks in test sample and average of the <i>highest read along</i> control samples is higher than 1</li>
+<li>Category B: For transcripts with 2 or more peaks; Ratio between test samples and control samples is higher than the <i>median</i></li>
+<li>Category C: Those that can not be classified into the above categories</li>
+
+</ul></li>
+
+</ul>
+
+</div>
+<div class="column" style="float:right;width:60%">
+
+<div id="org343774c" class="figure">
+<p><img src="./UT/images/png/pydeg-2.png" alt="pydeg-2.png" height="100%" />
+</p>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-orga176ad7">
+<h3 id="orga176ad7">Mutations in CID7 reduce degradation signals upstream AUG-STOP sequences in <i>NIP5;1</i></h3>
+<div class="column" style="float:left; width:40%">
+<ul class="compactl">
+<li>After filtering 2 significant peaks were found on NIP5;1</li>
+<li>One at 5’UTR and the other at 3’UTR</li>
+<li>Both are located upstream (&lt;20nt) of AUG-STOP</li>
+
+</ul>
+
+
+<div id="orgeea051d" class="figure">
+<p><img src="./UT/images/png/legend-nip5.png" alt="legend-nip5.png" width="70%" />
+</p>
+</div>
+
+</div>
+<div class="column" style="float:right; width: 60%">
+
+<div id="orgf163066" class="figure">
+<p><img src="./UT/images/png/nip5-5utr.png" alt="nip5-5utr.png" width="65%" />
+</p>
+</div>
+</div>
+</section>
+<section id="slide-nip5-3utr-signal" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="nip5-3utr-signal">NIP5;1 degradation signals at 3'UTR</h4>
+<div class="column" style="float:left; width:40%">
+<ul class="compactl">
+<li>Peak on 3'UTR region is located upstream (&lt;20nt) of AUG-UGA
+<ul>
+<li>AUG-STOP causes ribosome stalling (Tanaka <i>et al.</i> 2016) but this was not reported before (Tanaka, unpublished)</li>
+
+</ul></li>
+
+</ul>
+
+
+<div id="org82af5e2" class="figure">
+<p><img src="./UT/images/png/legend-nip5.png" alt="legend-nip5.png" width="75%" />
+</p>
+</div>
+</div>
+<div class="column" style="float:right; width: 60%">
+
+<div id="org14502b2" class="figure">
+<p><img src="./UT/images/png/nip5-3utr.png" alt="nip5-3utr.png" width="75%" />
+</p>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org7a35f58">
+<h3 id="org7a35f58">CAGEseq data suggest that B effects on <i>NIP5;1</i> are specifically mediated by CID7</h3>
+<ul>
+<li>CAGEseq:
+<ul>
+<li>RNAseq variant: Estimates intact mRNA species</li>
+
+</ul></li>
+<li>Comparison CAGEseq vs. Degradome
+<ul>
+<li>Assumption: Increases in Degradome signals should be accompanied by a reduction of CAGEseq estimates <b>if</b> there is a direct/specific effect of CID7/boron</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-org9a111d3" data-background-iframe="./UT/html/cage_v_degradome_miRNA_B_effect_0_99_3.html" data-background-interactive>
+<div style="background: rgb(0,0,0); position: absolute; opacity: 0.0; height: 200px; bottom: 10px; border-radius: 10px; padding:10px;">
+<h4 id="org9a111d3">CAGEseq results (Boron effect)</h4>
+</div>
+
+</section>
+<section id="slide-cageg" data-background-iframe="./UT/html/cage_v_degradome_miRNA_G_effect_0_99_3.html" data-background-interactive>
+<div style="background: rgb(0,0,0); position: absolute; opacity: 0.0; data-visibility="uncounted";">
+<h4 id="cageg">CAGEseq results (Genotype effect)</h4>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-orgda5992d">
+<h3 id="orgda5992d">Degradation intermediates at exon-junction regions</h3>
+
+<div id="org6706c11" class="figure">
+<p><img src="./UT/images/png/ejc.png" alt="ejc.png" height="300px" />
+</p>
+</div>
+<ul class="compacts">
+<li>Premature stops can lead to Nonsense-Mediated Decay</li>
+<li>If it happens before the 1st round of translation degradation intermediates accumulate at sites where exon junction complexes (EJC) bind, 25-30nt upstream exon-junction</li>
+<li>Abundance of degradation intermediates is reduced in <i>xrn4</i> mutants</li>
+
+</ul>
+</section>
+<section id="slide-orgadd3d81" data-background-iframe="./UT/html/degradome_signal_exon-junction_0_99_3.html" data-background-interactive>
+<div style="background: rgb(0,0,0); position: absolute; opacity: 0.0; height: 200px; bottom:10px; border-radius: 10px; padding:10px;">
+<h4 id="orgadd3d81">Mutations in XRN4 and CID7 affect the accumulation of degradation intermediates close to exon-junction</h4>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-orgcfe7d29">
+<h3 id="orgcfe7d29">Known miRNA398-mediated degradation intermediates are reduced in <i>cid7-5</i> mutants</h3>
+<div class="column textdivm" style="float:left; width: 40%">
+<ul class="compacts">
+<li>miRNA398 is a stress responsive gene<sup><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1399-3054.2011.01477.x">(1)</a></sup>
+<ul>
+<li>Associated stresses:  Oxidative, Water, Salt, others.</li>
+<li>Known targets:  Cu/Zn SOD (CSD1, 2 and 3)</li>
+
+</ul></li>
+<li>Accumulation of reads in CSD2 were unaffected in <i>xnr4-6</i> mutants<sup><a href="http://www.plantcell.org/content/32/4/904">(2)</a></sup></li>
+<li>No peak was found in <i>cid7-5 xnr4-6</i> double mutant</li>
+
+</ul>
+
+
+<div id="org7c88ce9" class="figure">
+<p><img src="./UT/images/png/legend-csd2.png" alt="legend-csd2.png" width="75%" />
+</p>
+</div>
+</div>
+<div class="column" style="float:right; width: 60%">
+
+<div id="org7c86037" class="figure">
+<p><img src="./UT/images/png/csd2.png" alt="csd2.png" width="70%" />
+</p>
+</div>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-org9026acf">
+<h3 id="org9026acf">Chapter conclusions</h3>
+<ul>
+<li>Post pyDegradome classification improved the list of degradation signals detected on candidate genes</li>
+<li>Degradation signals on <i>NIP5;1</i> were dependent on CID7 and found closer to AUG-STOP sequences. This suggest a link between CID7's endonuclease action and ribosome stalling.</li>
+<li>Comparison between Degradome and CAGEseq data point to a specific regulation by CID7 in the context of increases in boron concentration</li>
+<li>Focus on degradation signals around exon-junctions suggest a novel link between miRNA398 and CID7</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-org6174ccf">
+<h3 id="org6174ccf">General conclusions</h3>
+<ol>
+<li>Is it capable of degrading total RNA??
+<ul>
+<li>Evidence of that CID7<sub>SMR</sub> had RNA-nuclease activity was presented</li>
+
+</ul></li>
+
+<li>Is CID7's activity is related to the events of ribosome stalling?
+<ul>
+<li>Degradation intermediates on NIP5;1 were found close to AUG-STOP sequences  known to be associated with ribosome stalling; this in a CID7-dependent manner.</li>
+
+</ul></li>
+
+</ol>
+</section>
+<section id="slide-future-directions" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="future-directions">Future directions</h4>
+<ul>
+<li>RNA-endonuclease activity remains to be proved:
+<ul>
+<li>Use of specific probes: Flourescent-based method</li>
+<li>Expression in heterologous systems (e.g. Yeast)</li>
+
+</ul></li>
+<li>Confirmation through RACE-PCR is needed (Initial attempts suggest these are true signals)</li>
+
+</ul>
+</section>
+<section id="slide-5race" data-background="#dece871e" data-visibility="uncounted">
+<h4 id="5race">5'RACE preliminary attempts</h4>
+
+<div id="org14e04f0" class="figure">
+<p><img src="./UT/images/png/test_5race.png" alt="test_5race.png" width="75%" />
+</p>
+</div>
+
+<ul class="compacts">
+<li>Amplification of <i>NIP5;1</i> degradation intermediates from Col-0 plants exposed to two concentration of boron.</li>
+<li>Expected products: Transcription start: 710 and AUG-STOP: 274bp</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orgbb7d2af">
+<h3 id="orgbb7d2af">Acknowledgments</h3>
+<ul>
+<li>MEXT program in Bolivia</li>
+<li>Prof. Fujiwara and all laboratory members</li>
+<li>Prof. Nagata (Laboratory of Food Biotechnology and Structural Biology, The University of Tokyo)</li>
+<li>OICE staff: Prof. Momma and Ms. Ishizuka</li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+<p> Created by ssl. </p>
+<script src="/home/saul/.local/bin/reveal.js/dist/reveal.js"></script>
+<script src="./plugin/markdown/markdown.js"></script>
+<script src="./plugin/notes/notes.js"></script>
+<script src="./plugin/zoom/zoom.js"></script>
+<script src="./plugin/pointer/pointer.js"></script>
+<script src="./plugin/reveal.js-menu/menu.js"></script>
+
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+plugins: [RevealMarkdown, RevealNotes, RevealZoom, RevealPointer, RevealMenu],
+width:1200, height:800, controlsLayout: 'bottom-right', slideNumber:"c/t", margin: 0, minScale:0.2, maxScale:2.5, history: false, transition: 'fade', menu: {side: 'left', titleSelector: 'h1, h2, h3, h4, h5, h6', hideMissingTitles: false, markers: true, custom: false, themes: true, themesPath: './dist/theme/', transitions: true, openButton: true, openSlideNumber: false, keyboard: true, sticky: false, autoOpen: true}, pointer: {key: "q", color: "red", pointerSize: 16, alwaysVisible: false, tailLength: 10}
+});
+
+</script>
+</body>
+</html>

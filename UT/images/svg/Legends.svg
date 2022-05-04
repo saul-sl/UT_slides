@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg216729"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Legends.svg">
+  <defs
+     id="defs216723" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9007837"
+     inkscape:cx="214.88854"
+     inkscape:cy="87.230036"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata216726">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.92107px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:0.995;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.136409"
+       x="9.6621027"
+       y="13.761398"
+       id="text989-4-6-3"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan987-2-1-2"
+         x="9.6621027"
+         y="13.761398"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.136409">Symbols:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="30.811991"
+       y="13.515428"
+       id="text171239-3-5"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0"
+         x="30.811991"
+         y="13.515428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Col-0 B:100μM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="71.021233"
+       y="13.515428"
+       id="text171239-9"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-1"
+         x="71.021233"
+         y="13.515428"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+   id="tspan171241-1">cid7-5</tspan> B:100μM</tspan></text>
+    <path
+       style="fill:#fdae61;fill-opacity:1;fill-rule:nonzero;stroke:#fdae61;stroke-width:0.357431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 60.439779,17.197084 c 0,1.52467 -2.287933,1.52467 -2.287933,0 0,-1.526526 2.287933,-1.526526 2.287933,0"
+       id="path186319-9"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904" />
+    <path
+       style="fill:#d43d4c;fill-opacity:1;fill-rule:nonzero;stroke:#d43d4c;stroke-width:0.357431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 60.398384,21.528987 c 0,1.52467 -2.287933,1.52467 -2.287933,0 0,-1.526533 2.287933,-1.526533 2.287933,0"
+       id="path186413-5"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904" />
+    <path
+       style="fill:#66c2a3;fill-opacity:1;fill-rule:nonzero;stroke:#66c2a3;stroke-width:0.357621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 96.948771,17.196385 c 0,1.525479 -2.289143,1.525479 -2.289143,0 0,-1.525474 2.289143,-1.525474 2.289143,0"
+       id="path186599-9"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904" />
+    <path
+       style="fill:#4291c2;fill-opacity:1;fill-rule:nonzero;stroke:#4291c2;stroke-width:0.357431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 97.068578,21.52759 c 0,1.526533 -2.287933,1.526533 -2.287933,0 0,-1.524667 2.287933,-1.524667 2.287933,0"
+       id="path186713-4"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="36.760296"
+       y="17.936602"
+       id="text171239-3-5-8"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-2"
+         x="36.760296"
+         y="17.936602"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Replicate 1: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="36.864784"
+       y="22.314522"
+       id="text171239-3-5-8-2"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-2-3"
+         x="36.864784"
+         y="22.314522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Replicate 2: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="74.001381"
+       y="17.936602"
+       id="text171239-3-5-8-7"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-2-4"
+         x="74.001381"
+         y="17.936602"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Replicate 1: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="74.105873"
+       y="22.314522"
+       id="text171239-3-5-8-2-5"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-2-3-0"
+         x="74.105873"
+         y="22.314522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Replicate 2: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.92107px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:0.995;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.136409"
+       x="9.9637432"
+       y="47.063705"
+       id="text989-4-6-3-0"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan987-2-1-2-4"
+         x="9.9637432"
+         y="47.063705"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.136409">Symbols:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="31.119877"
+       y="46.111027"
+       id="text171239-3-5-5"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-3"
+         x="31.119877"
+         y="46.111027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"><tspan
+   style="font-style:italic"
+   id="tspan219736">xrn4-6</tspan> B:100μM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="68.419388"
+       y="46.111027"
+       id="text171239-9-6"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-1-8"
+         x="68.419388"
+         y="46.111027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"><tspan
+   style="font-style:italic"
+   id="tspan219738">xrn4-6 cid7-5</tspan> B:100</tspan></text>
+    <path
+       style="fill:#fdae61;fill-opacity:1;fill-rule:nonzero;stroke:#fdae61;stroke-width:0.357431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 60.741419,50.467748 c 0,1.52467 -2.287933,1.52467 -2.287933,0 0,-1.526526 2.287933,-1.526526 2.287933,0"
+       id="path186319-9-4"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904" />
+    <path
+       style="fill:#d43d4c;fill-opacity:1;fill-rule:nonzero;stroke:#d43d4c;stroke-width:0.357431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 60.700024,54.799651 c 0,1.52467 -2.287933,1.52467 -2.287933,0 0,-1.526533 2.287933,-1.526533 2.287933,0"
+       id="path186413-5-7"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904" />
+    <path
+       style="fill:#66c2a3;fill-opacity:1;fill-rule:nonzero;stroke:#66c2a3;stroke-width:0.357621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 97.25041,50.467049 c 0,1.525479 -2.28914,1.525479 -2.28914,0 0,-1.525474 2.28914,-1.525474 2.28914,0"
+       id="path186599-9-0"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904" />
+    <path
+       style="fill:#4291c2;fill-opacity:1;fill-rule:nonzero;stroke:#4291c2;stroke-width:0.357431;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+       d="m 97.37022,54.798254 c 0,1.526533 -2.28794,1.526533 -2.28794,0 0,-1.524667 2.28794,-1.524667 2.28794,0"
+       id="path186713-4-8"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="37.068184"
+       y="50.532204"
+       id="text171239-3-5-8-9"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-2-46"
+         x="37.068184"
+         y="50.532204"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Replicate 1: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="37.172672"
+       y="54.910126"
+       id="text171239-3-5-8-2-0"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-2-3-9"
+         x="37.172672"
+         y="54.910126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Replicate 2: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="74.309265"
+       y="50.532204"
+       id="text171239-3-5-8-7-7"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-2-4-6"
+         x="74.309265"
+         y="50.532204"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Replicate 1: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="74.413757"
+       y="54.910126"
+       id="text171239-3-5-8-2-5-8"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-2-3-0-0"
+         x="74.413757"
+         y="54.910126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Replicate 2: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.92107px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:0.995;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.136409"
+       x="9.6621027"
+       y="31.555725"
+       id="text989-4-6-3-0-0"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan987-2-1-2-4-7"
+         x="9.6621027"
+         y="31.555725"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.136409">Strand:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="30.663851"
+       y="30.600218"
+       id="text171239-3-5-7"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-nip5.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-8"
+         x="30.663851"
+         y="30.600218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Negative</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.92107px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:0.995;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:0.136409"
+       x="9.9637432"
+       y="64.746773"
+       id="text989-4-6-3-0-0-7"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan987-2-1-2-4-7-5"
+         x="9.9637432"
+         y="64.746773"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.136409">Strand:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215"
+       x="30.68235"
+       y="63.117821"
+       id="text171239-3-5-7-1"
+       transform="scale(0.97971,1.0207102)"
+       inkscape:export-filename="/home/saul/Documents/Utokyo/Thesis/Presentation/images/legend-csd2.png"
+       inkscape:export-xdpi="93.577904"
+       inkscape:export-ydpi="93.577904"><tspan
+         sodipodi:role="line"
+         id="tspan171237-8-0-8-1"
+         x="30.68235"
+         y="63.117821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c4c4c;fill-opacity:1;stroke-width:0.259215">Positive</tspan></text>
+  </g>
+</svg>
